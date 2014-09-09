@@ -1,13 +1,13 @@
 MunSeeker Greenhouse-Mk2 TAC
 ============================
 
-KSP: A small greenhouse for TAC Life Support (version 0.9 and up
+A greenhouse designed for TAC Life Support (version 0.9 and up), based on the stock KSP Structural Fuselage model.
 
-A small greenhouse designed for TAC life support, based on the stock Cupola model. Converts Electricity (a lot), Waste, Carbon Dioxide and Waste Water to Food. 
+Converts Electricity (a lot), Waste, Carbon Dioxide and Waste Water to Food. 
 
-There is some loss in this process, so the crew will still need to be supplied. One greenhouse will use 50% of the waste products of 3 Kerbals (waste, waste water and carbon dioxide) and supply them with 15% oxygen, 30% water and 35% food of their total needs.
+There is some loss in this process, so the crew will still need to be supplied. One greenhouse will use 50% of the waste products of 3 Kerbals (waste, waste water and carbon dioxide) and supply them with roughly 15% oxygen, 30% water and 35% food of their total needs.
 
-Growing food in a cramped greenhouse in zero G is energy intensive. One small Mk2 greenhouse uses about 0.6 Electrical Units per second, or about 2100 per hour (the RTG produces about 0.75/second, so one RTG could supply one small greenhouse).
+Growing food in a cramped greenhouse in zero G is energy intensive. One small Mk2 Greenhouse uses about 0.6 Electrical Units per second, or about 2100 per hour (the RTG produces about 0.75/second, so one RTG could supply one small greenhouse).
 
 My goal was to realistically extend the food supply for a crew of kerbonauts without completely removing the need of regular resupply missions. This is a good companion to the TAC Carbon Extractor and Water Purifier. 
 
