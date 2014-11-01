@@ -1,6 +1,11 @@
 MunSeeker Greenhouse-Mk2 TAC
 ============================
 
+============================
+PLEASE NOTE: The Mk2 Greenhouse is now deprecated. It does not work in KSP .25 and up due to a change in KSP stock texture management.
+============================
+
+
 A greenhouse designed for TAC Life Support (version 0.9 and up), based on the stock KSP Structural Fuselage model.
 
 Converts Electricity (a lot), Waste, Carbon Dioxide and Waste Water to Food. 
